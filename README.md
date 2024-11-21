@@ -1,5 +1,11 @@
 # 💫 About Me:
-i'm currenty working on my project which is property rental website<br>i'm looking to colabrate on open source<br>i'm currently learning react
+I’m currently working on my semester project, a <b>Property Rental Website</b>, which leverages modern web development practices to create a user-friendly platform for property bookings.
+
+I’m also passionate about <b>open-source collaboration</b> and would love to contribute to meaningful projects in the tech community.
+
+Currently, I’m <b>learning React.js</b>, enhancing my front-end development skills and building dynamic, interactive web applications.
+
+Feel free to connect or collaborate with me! 🚀
 
 
 ## 🌐 Socials:
