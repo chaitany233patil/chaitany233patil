@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CHaitanya Patil</h1>
+<h1 align="center">Hi 👋, I'm CHaitanya</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitany233patil&label=Profile%20views&color=0e75b6&style=flat" alt="chaitany233patil" /> </p>
