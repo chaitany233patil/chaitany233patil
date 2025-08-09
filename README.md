@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m currently building a real-time collaborative platform inspired by Excalidraw.<br>🤝 I’m looking to collaborate with developers who are passionate about building innovative web apps.<br>🎨 I’m seeking help specifically with improving the design and user experience of the platform.<br>🌱 I’m currently learning Next.js and diving into the world of blockchain development.<br>💬 Ask me about anything related to the MERN stack — I love sharing and discussing ideas!
+🚀 I’m currently building a real-time collaborative platform inspired by Excalidraw.<br>🤝 I’m looking to collaborate with developers who are passionate about building innovative web apps.<br>🎨 I’m seeking help specifically with improving the design and user experience of the platform.<br>🌱 I’m currently learning React-Native and AdonisJs.<br>💬 Ask me about anything related to the MERN stack — I love sharing and discussing ideas!
 
 
 ## 🌐 Socials:
